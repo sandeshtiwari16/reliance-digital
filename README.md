@@ -2,6 +2,8 @@
 
 In this Project, we verify the functionality of login and adding products to the cart of the reliance digital page.
 
+[Demo Video](https://youtu.be/Jk3i7XurFJE)
+
 
 ### Project Flow
 
@@ -16,3 +18,12 @@ In this Project, we verify the functionality of login and adding products to the
 
 **Software:** _AccelQ,_ _AccelQ Browser Extension_
 
+### Scenario Test Steps
+
+![s1](https://github.com/sandeshtiwari16/reliance-digital/blob/main/Screenshots/ScenarioSteps1.JPG)
+
+![s2](https://github.com/sandeshtiwari16/reliance-digital/blob/main/Screenshots/ScenarioSteps2.JPG)
+
+### Result
+
+![result](https://github.com/sandeshtiwari16/reliance-digital/blob/main/Screenshots/TestCaseResult.JPG)
