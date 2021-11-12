@@ -2,7 +2,7 @@
 
 In this Project, we verify the functionality of login and adding products to the cart of the reliance digital page.
 
-[Demo Video](https://youtu.be/Jk3i7XurFJE)
+[Demo Video](https://youtu.be/5p6oTimT508)
 
 
 ### Project Flow
